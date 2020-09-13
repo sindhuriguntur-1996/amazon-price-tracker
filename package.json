@@ -1,0 +1,16 @@
+{
+  "name": "amazon-price-tracker",
+  "version": "1.0.0",
+  "description": "price-tracker",
+  "main": "pricetracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sindhuri",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nightmare": "^3.0.2",
+    "node-mailer": "^0.1.1"
+  }
+}
